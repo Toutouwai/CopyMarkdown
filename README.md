@@ -12,7 +12,7 @@ Note: in the screencast an [EasyMDE inputfield](https://github.com/Toutouwai/Inp
 
 When you hover on an item in an Images field an asterisk icon appears on the thumbnail. Click the icon to copy an image Markdown string to clipboard. If the "Description" field is populated it is used as the alt text.
 
-You can also open the "Variations" modal for an image and click the asterisk icon to copy an image Markdown string for the variation.
+You can also open the "Variations" modal for an image and click the asterisk icon to copy an image Markdown string for an individual variation.
 
 ## Usage: Files
 
