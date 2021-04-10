@@ -1,4 +1,4 @@
-# CopyMarkdown
+# Copy Markdown
 
 A module for ProcessWire CMS/CMF. Adds icons to images and files that allow you to copy a Markdown string to the clipboard. When you click the icon a message at the top left of the screen notifies you that the copying has occurred.
 
