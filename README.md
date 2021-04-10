@@ -6,7 +6,7 @@ A module for ProcessWire CMS/CMF. Adds icons to images and files that allow you 
 
 ![copy-markdown](https://user-images.githubusercontent.com/1538852/114258813-596d5a80-9a1d-11eb-8a33-7d89982d667f.gif)
 
-Note: in the screencast an EasyMDE inputfield is used to preview the Markdown. It's not required to use EasyMDE - an ordinary textarea field could be used.
+Note: in the screencast an [EasyMDE inputfield](https://github.com/Toutouwai/InputfieldEasyMDE) is used to preview the Markdown. It's not required to use EasyMDE - an ordinary textarea field could be used.
 
 ## Usage: Images
 
